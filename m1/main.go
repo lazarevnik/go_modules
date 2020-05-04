@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import p "github.com/lazarevnik/go_modules/print"
 
 func main() {
-	fmt.Println("First module")
+	p.MyPrint("First")
 }
