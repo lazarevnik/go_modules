@@ -1,7 +1,1 @@
-module github.com/lazarevnik/go_modules/m1
-
-replace github.com/lazarevnik/go_modules/print => ../p1
-
-go 1.14
-
-require github.com/lazarevnik/go_modules/print v0.0.0-00010101000000-000000000000
+module github.com/lazarevnik/go_modules/m1/v1
